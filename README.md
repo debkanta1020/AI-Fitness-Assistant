@@ -82,12 +82,4 @@ Or connect your GitHub repository to Vercel for automatic deployments.
 - **Convex**: Real-time database
 - **Gemini AI**: Large Language Model for generating personalized fitness programs
 
-## Learn More
 
-To learn more about the technologies used in this project:
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Clerk Documentation](https://clerk.com/docs)
-- [Vapi Documentation](https://docs.vapi.ai)
-- [Convex Documentation](https://docs.convex.dev)
-- [Gemini AI Documentation](https://ai.google.dev/gemini-api)
